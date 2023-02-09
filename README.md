@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/111041545/217720001-28c15277-d786-49f6-8fcb-b441ee1b5e59.png)
+![image](https://user-images.githubusercontent.com/111041545/217765081-9a496da2-e671-4c84-bb9c-1266002ff98f.png)
 
 Requirements
 Python Scripts
