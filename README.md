@@ -89,3 +89,6 @@ EOF  help  quit
 $
 
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
+
+![image](https://user-images.githubusercontent.com/111041545/217765921-5f84bb34-3e15-49a7-b33d-96b4a08eeeaa.png)
+
